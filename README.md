@@ -11,8 +11,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/cihan-i̇çelliler/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="cihan-i̇çelliler" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/cihan-i̇çelliler" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="cihan-i̇çelliler" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/cihan-içelliler/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="cihan-i̇çelliler" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/14512135/cihan-İçelliler" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="cihan-i̇çelliler" height="30" width="40" /></a>
 <a href="https://instagram.com/cihanicelliler" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="cihanicelliler" height="30" width="40" /></a>
 </p>
 
