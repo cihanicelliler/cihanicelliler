@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/cihanicelliler" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg![image](https://user-images.githubusercontent.com/55557233/109391213-fc16c180-7926-11eb-854c-769a044c389a.png)
+<a href="https://instagram.com/cihanicelliler" target="blank"><img align="center" src="https://www.flaticon.com/free-icon/instagram_174855?term=instagram&page=1&position=7&page=1&position=7&related_id=174855&origin=tag
 " alt="cihanicelliler" height="30" width="40" /></a>
 </p>
 
