@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/cihanicelliler" target="blank"><img align="center" src="file:///C:/Users/icell/Downloads/instagram.svg" alt="cihanicelliler" height="30" width="40" /></a>
+<a href="https://instagram.com/cihanicelliler" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/733/733558.svg?token=exp=1614440053~hmac=8cf5e280626c1412ab24366825331237" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
