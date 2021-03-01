@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cihan İçelliler</h1>
-<h3 align="center">A passionate FullStack Web and Mobile developer from Turkey</h3>
+<h3 align="center">A passionate FullStack Web and Mobile Developer from Turkey</h3>
 
 - 🔭 I’m currently working on [ReCapProject](https://github.com/cihanicelliler/ReCapProject)
 
