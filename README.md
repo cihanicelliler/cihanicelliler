@@ -10,6 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/cihanicelliler" target="blank"><img align="center" src="http://pngimg.com/uploads/instagram/small/instagram_PNG3.png" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/cihan-içelliler/" target="blank"><img align="center" src="http://pngimg.com/uploads/linkedIn/small/linkedIn_PNG16.png" height="40" width="40" /></a> 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
