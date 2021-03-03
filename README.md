@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on [ReCapProject](https://github.com/cihanicelliler/ReCapProject)
 
-- 📫 How to reach me **https://www.linkedin.com/in/cihan-içelliler/**
-
 - 📫 How to reach me **icellilercihan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
