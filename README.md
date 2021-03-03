@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/cihanicelliler" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/174/174855.svg?token=exp=1614509933~hmac=98a4ca08db0e146e655449eab0c63ecc" height="30" width="40" /></a>
+<a href="https://instagram.com/cihanicelliler" target="blank"><img align="center" src="https://seeklogo.com/images/I/instagram-new-2016-logo-D9D42A0AD4-seeklogo.com.png" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
