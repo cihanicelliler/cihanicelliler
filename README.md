@@ -18,4 +18,5 @@
 
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cihanicelliler&show_icons=true&theme=dark&locale=en&layout=compact" alt="cihanicelliler" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cihanicelliler&show_icons=true&theme=dark&title_color=f2f2f2&text_color=009999&locale=en" alt="cihanicelliler" /></p>
 
