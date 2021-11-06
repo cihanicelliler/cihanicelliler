@@ -17,5 +17,5 @@
  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-vertical.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
 <br>
-<p style="display: flex;" ><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cihanicelliler&show_icons=true&theme=dark&locale=en&layout=compact" alt="cihanicelliler" />&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cihanicelliler&show_icons=true&theme=dark&title_color=f2f2f2&text_color=009999&locale=en" alt="cihanicelliler" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cihanicelliler&show_icons=true&theme=dark&locale=en&layout=compact" alt="cihanicelliler" /></p><p><img align="center" src="https://github-readme-stats.vercel.app/api?username=cihanicelliler&show_icons=true&theme=dark&title_color=f2f2f2&text_color=009999&locale=en" alt="cihanicelliler" /></p>
 
