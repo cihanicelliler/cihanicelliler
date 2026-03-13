@@ -8,7 +8,7 @@
 
 <br/>
 
-### 🧠 *Building the future of AI Agents*
+<h3>🧠 <em>Building the future of AI Agents</em></h3>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Designing+autonomous+AI+systems+that+reason+and+act;From+LLMs+to+production-grade+AI+Agents;Java+%E2%80%A2+Python+%E2%80%A2+LangGraph+%E2%80%A2+RAG+%E2%80%A2+Spring+Boot" alt="Typing SVG" /></a>
 
@@ -60,61 +60,61 @@
 <table>
 <tr>
 <td width="50%" valign="top">
-
-### ⚙️ Backend Engineering
-> *Scalable, domain-driven microservices*
-
-| | Technology | Level |
-|---|---|---|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="20"/> | **Java** · Spring Boot · DDD | `████████████` Expert |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="20"/> | **Spring Ecosystem** · WebFlux · Security | `███████████░` Advanced |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="20"/> | **Docker** · Kubernetes · CI/CD | `██████████░░` Advanced |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="20"/> | **PostgreSQL** · MongoDB · Redis | `███████████░` Advanced |
-| <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="20"/> | **Kafka** · RabbitMQ · Event-Driven | `██████████░░` Advanced |
-
+<h3>⚙️ Backend Engineering</h3>
+<blockquote><em>Scalable, domain-driven microservices</em></blockquote>
+<table>
+<thead><tr><th></th><th>Technology</th><th>Level</th></tr></thead>
+<tbody>
+<tr><td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="20" alt="Java"/></td><td><strong>Java</strong> · Spring Boot · DDD</td><td><code>████████████</code> Expert</td></tr>
+<tr><td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="20" alt="Spring"/></td><td><strong>Spring Ecosystem</strong> · WebFlux · Security</td><td><code>███████████░</code> Advanced</td></tr>
+<tr><td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="20" alt="Docker"/></td><td><strong>Docker</strong> · Kubernetes · CI/CD</td><td><code>██████████░░</code> Advanced</td></tr>
+<tr><td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="20" alt="PostgreSQL"/></td><td><strong>PostgreSQL</strong> · MongoDB · Redis</td><td><code>███████████░</code> Advanced</td></tr>
+<tr><td><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="20" alt="Kafka"/></td><td><strong>Kafka</strong> · RabbitMQ · Event-Driven</td><td><code>██████████░░</code> Advanced</td></tr>
+</tbody>
+</table>
 </td>
 <td width="50%" valign="top">
-
-### 🤖 AI & NLP Engineering
-> *Autonomous agents that reason and act*
-
-| | Technology | Level |
-|---|---|---|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="20"/> | **Python** · FastAPI · LangChain | `████████████` Expert |
-| 🦜 | **LangGraph** · Multi-Agent Systems | `███████████░` Advanced |
-| 🔍 | **RAG** · Vector DBs · Embeddings | `███████████░` Advanced |
-| 🧠 | **LLM Orchestration** · Prompt Eng. | `██████████░░` Advanced |
-| ⚡ | **n8n** · AI Workflow Automation | `██████████░░` Advanced |
-
+<h3>🤖 AI &amp; NLP Engineering</h3>
+<blockquote><em>Autonomous agents that reason and act</em></blockquote>
+<table>
+<thead><tr><th></th><th>Technology</th><th>Level</th></tr></thead>
+<tbody>
+<tr><td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="20" alt="Python"/></td><td><strong>Python</strong> · FastAPI · LangChain</td><td><code>████████████</code> Expert</td></tr>
+<tr><td>🦜</td><td><strong>LangGraph</strong> · Multi-Agent Systems</td><td><code>███████████░</code> Advanced</td></tr>
+<tr><td>🔍</td><td><strong>RAG</strong> · Vector DBs · Embeddings</td><td><code>███████████░</code> Advanced</td></tr>
+<tr><td>🧠</td><td><strong>LLM Orchestration</strong> · Prompt Eng.</td><td><code>██████████░░</code> Advanced</td></tr>
+<tr><td>⚡</td><td><strong>n8n</strong> · AI Workflow Automation</td><td><code>██████████░░</code> Advanced</td></tr>
+</tbody>
+</table>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-
-### 🎨 Frontend & Cloud
-> *Modern interfaces, real-time systems*
-
-| | Technology | Level |
-|---|---|---|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="20"/> | **React** · Next.js · TypeScript | `██████████░░` Advanced |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="20"/> | **Redux-Saga** · State Management | `██████████░░` Advanced |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="20"/> | **TypeScript** · Node.js | `██████████░░` Advanced |
-| ⚡ | **Supabase** · Firebase · BaaS | `█████████░░░` Proficient |
-
+<h3>🎨 Frontend &amp; Cloud</h3>
+<blockquote><em>Modern interfaces, real-time systems</em></blockquote>
+<table>
+<thead><tr><th></th><th>Technology</th><th>Level</th></tr></thead>
+<tbody>
+<tr><td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="20" alt="React"/></td><td><strong>React</strong> · Next.js · TypeScript</td><td><code>██████████░░</code> Advanced</td></tr>
+<tr><td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="20" alt="Redux Saga"/></td><td><strong>Redux-Saga</strong> · State Management</td><td><code>██████████░░</code> Advanced</td></tr>
+<tr><td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="20" alt="TypeScript"/></td><td><strong>TypeScript</strong> · Node.js</td><td><code>██████████░░</code> Advanced</td></tr>
+<tr><td>⚡</td><td><strong>Supabase</strong> · Firebase · BaaS</td><td><code>█████████░░░</code> Proficient</td></tr>
+</tbody>
+</table>
 </td>
 <td width="50%" valign="top">
-
-### 🏗️ Architecture & Practices
-> *Building systems that scale*
-
-| | Domain | |
-|---|---|---|
-| 📐 | **Domain-Driven Design** | Bounded Contexts, Aggregates |
-| 🔄 | **Microservices** | Event Sourcing, CQRS |
-| 🧪 | **Testing** | TDD, Integration, E2E |
-| 📊 | **Observability** | Logging, Metrics, Tracing |
-| 🔒 | **Security** | OAuth2, JWT, API Gateway |
-
+<h3>🏗️ Architecture &amp; Practices</h3>
+<blockquote><em>Building systems that scale</em></blockquote>
+<table>
+<thead><tr><th></th><th>Domain</th><th></th></tr></thead>
+<tbody>
+<tr><td>📐</td><td><strong>Domain-Driven Design</strong></td><td>Bounded Contexts, Aggregates</td></tr>
+<tr><td>🔄</td><td><strong>Microservices</strong></td><td>Event Sourcing, CQRS</td></tr>
+<tr><td>🧪</td><td><strong>Testing</strong></td><td>TDD, Integration, E2E</td></tr>
+<tr><td>📊</td><td><strong>Observability</strong></td><td>Logging, Metrics, Tracing</td></tr>
+<tr><td>🔒</td><td><strong>Security</strong></td><td>OAuth2, JWT, API Gateway</td></tr>
+</tbody>
+</table>
 </td>
 </tr>
 </table>
@@ -130,61 +130,49 @@
 <table>
 <tr>
 <td width="50%" valign="top">
-
-### <img src="https://img.shields.io/badge/🔮_Lecta_AI-Micro--SaaS-blueviolet?style=flat-square" />
-
-**Intelligent Knowledge Assistant powered by RAG & Multi-Agent Orchestration**
-
-`Python` `FastAPI` `LangGraph` `RAG` `React` `Supabase`
-
-- 🧠 Multi-agent pipeline with LangGraph for complex reasoning
-- 🔍 RAG-powered document understanding with vector search
-- ⚡ Real-time streaming responses via WebSocket
-- 🎯 Production-grade API with FastAPI & async processing
-
+<h3><img src="https://img.shields.io/badge/🔮_Lecta_AI-Micro--SaaS-blueviolet?style=flat-square" alt="Lecta AI - Micro-SaaS" /></h3>
+<p><strong>Intelligent Knowledge Assistant powered by RAG &amp; Multi-Agent Orchestration</strong></p>
+<p><code>Python</code> <code>FastAPI</code> <code>LangGraph</code> <code>RAG</code> <code>React</code> <code>Supabase</code></p>
+<ul>
+<li>🧠 Multi-agent pipeline with LangGraph for complex reasoning</li>
+<li>🔍 RAG-powered document understanding with vector search</li>
+<li>⚡ Real-time streaming responses via WebSocket</li>
+<li>🎯 Production-grade API with FastAPI &amp; async processing</li>
+</ul>
 </td>
 <td width="50%" valign="top">
-
-### <img src="https://img.shields.io/badge/🏛️_Enterprise_Microservices-Platform-blue?style=flat-square" />
-
-**Domain-Driven microservice architecture at enterprise scale**
-
-`Java` `Spring Boot` `Kafka` `PostgreSQL` `Docker`
-
-- 📐 Clean DDD architecture with bounded contexts
-- 🔄 Event-driven communication via Kafka & RabbitMQ
-- 🐳 Containerized deployment with Docker & K8s
-- 📊 Full observability stack with distributed tracing
-
+<h3><img src="https://img.shields.io/badge/🏛️_Enterprise_Microservices-Platform-blue?style=flat-square" alt="Enterprise Microservices - Platform" /></h3>
+<p><strong>Domain-Driven microservice architecture at enterprise scale</strong></p>
+<p><code>Java</code> <code>Spring Boot</code> <code>Kafka</code> <code>PostgreSQL</code> <code>Docker</code></p>
+<ul>
+<li>📐 Clean DDD architecture with bounded contexts</li>
+<li>🔄 Event-driven communication via Kafka &amp; RabbitMQ</li>
+<li>🐳 Containerized deployment with Docker &amp; K8s</li>
+<li>📊 Full observability stack with distributed tracing</li>
+</ul>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-
-### <img src="https://img.shields.io/badge/⚡_AI_Workflow_Engine-Automation-orange?style=flat-square" />
-
-**Intelligent automation pipelines with n8n & AI agents**
-
-`n8n` `Python` `LangChain` `REST APIs`
-
-- 🤖 AI-powered workflow automation with custom nodes
-- 🔗 Seamless integration between LLMs and business tools
-- 📈 Scalable pipeline orchestration for data processing
-
+<h3><img src="https://img.shields.io/badge/⚡_AI_Workflow_Engine-Automation-orange?style=flat-square" alt="AI Workflow Engine - Automation" /></h3>
+<p><strong>Intelligent automation pipelines with n8n &amp; AI agents</strong></p>
+<p><code>n8n</code> <code>Python</code> <code>LangChain</code> <code>REST APIs</code></p>
+<ul>
+<li>🤖 AI-powered workflow automation with custom nodes</li>
+<li>🔗 Seamless integration between LLMs and business tools</li>
+<li>📈 Scalable pipeline orchestration for data processing</li>
+</ul>
 </td>
 <td width="50%" valign="top">
-
-### <img src="https://img.shields.io/badge/🌐_Full--Stack_Apps-Modern_Web-teal?style=flat-square" />
-
-**Modern web applications with React & real-time data**
-
-`React` `Redux-Saga` `TypeScript` `Supabase` `Node.js`
-
-- ⚛️ Component-driven UI with React & TypeScript
-- 🔄 Complex async flows managed by Redux-Saga
-- 🗄️ Real-time backend with Supabase
-- 📱 Responsive, accessible, and performant
-
+<h3><img src="https://img.shields.io/badge/🌐_Full--Stack_Apps-Modern_Web-teal?style=flat-square" alt="Full-Stack Apps - Modern Web" /></h3>
+<p><strong>Modern web applications with React &amp; real-time data</strong></p>
+<p><code>React</code> <code>Redux-Saga</code> <code>TypeScript</code> <code>Supabase</code> <code>Node.js</code></p>
+<ul>
+<li>⚛️ Component-driven UI with React &amp; TypeScript</li>
+<li>🔄 Complex async flows managed by Redux-Saga</li>
+<li>🗄️ Real-time backend with Supabase</li>
+<li>📱 Responsive, accessible, and performant</li>
+</ul>
 </td>
 </tr>
 </table>
@@ -236,7 +224,7 @@
 
 <div align="center">
 
-### 🛠️ Tech Stack at a Glance
+<h3>🛠️ Tech Stack at a Glance</h3>
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
@@ -244,7 +232,7 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Redux](https://img.shields.io/badge/Redux_Saga-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Redux Saga](https://img.shields.io/badge/Redux_Saga-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/K8s-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
@@ -265,9 +253,9 @@
 
 <div align="center">
 
----
+<hr />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1a1b27&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1a1b27&height=120&section=footer" width="100%" alt="Footer" />
 
 <sub>⚡ Designed with precision — powered by curiosity.</sub>
 
